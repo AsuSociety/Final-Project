@@ -102,7 +102,3 @@ Special thanks to Prof. Zeev Volkovich and Dr. Renata Avros for their guidance a
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README with additional details, usage instructions, or any other relevant information about your project!
